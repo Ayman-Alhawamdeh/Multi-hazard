@@ -1,2 +1,2 @@
 # Multi-hazard
-This will contain my maps for  PhD work
+This folder contains my maps for  PhD work
