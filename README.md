@@ -4,3 +4,4 @@ Each figure with a caption number on the paper was uploaded and run with the sam
 All information had been explained in the GIF to impart meaning and to enable the reader to understand the figure clearly.
 This is version 1.
 This includes the spatial distribution and timestamps that were created using QGIS. 
+This section of the information is from my research, which focusses on the multi-hazard nature of the 2023 Turkey earthquake.
